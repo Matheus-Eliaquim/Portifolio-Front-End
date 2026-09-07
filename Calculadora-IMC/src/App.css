@@ -1,0 +1,14 @@
+:root {
+    --background-color: #1d1e33;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-width: 400px;
+    min-height: 400px;
+    background-color: var(--background-color);
+    border-radius: 30px;
+    padding: 2rem;
+}

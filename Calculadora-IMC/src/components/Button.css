@@ -1,0 +1,28 @@
+:root {
+    --colorButton01: #e60202;
+    --colorButton02: #383838;
+    --colorWhite: #ffffff;
+}
+
+button {
+    text-transform: uppercase;
+    padding: 1rem 1.5rem;
+    background-color: var(--colorButton01);
+    border: none;
+    color: var(--colorWhite);
+    cursor: pointer;
+    flex: 1;
+    border-radius: 15px;
+}
+
+button:hover {
+    transform: scale(1.05);
+}
+
+button:active {
+    transform: scale(0.95);    
+}
+
+#clear-btn {
+    background-color: var(--colorButton02);
+}
