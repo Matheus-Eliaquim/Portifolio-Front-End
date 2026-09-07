@@ -1,0 +1,26 @@
+:root {
+    --color-click: #555555;
+    --color-font: #fdfdfd;
+    --color-back-ground: rgb(0, 95, 0);
+}
+
+button {
+    text-transform: uppercase; /* deixa o texto em caixa alta */
+    font-weight: bolder;
+    margin: 1rem 0;
+    padding: 1rem 0.5rem;
+    border-radius: 20px;
+    cursor: pointer;
+    background-color: var(--color-back-ground);
+    color: var(--color-font);
+    border: none;
+}
+
+button:hover {
+    transform: scale(1.05);
+}
+
+button:active {
+    transform: scale(0.95);
+    background-color: var(--color-click)
+}

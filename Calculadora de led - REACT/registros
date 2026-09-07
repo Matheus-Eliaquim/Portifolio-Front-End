@@ -1,0 +1,7 @@
+31/07 - Aprendendo a fazer formularios em react
+
+* aprendendo a fazer formularios, e gerenciar dados em react
+* capturando os primeiros dados e aprendendo a manipular usando o useState
+* aprendendo a usar a prop onChange (funções para manipular dados por convenção iniciam com handle 
+ex: handleName - função para salvar o nome do usuario)
+

@@ -1,0 +1,8 @@
+#relatorio-final {
+    color: #fff;
+    background: var(--color-form);
+    text-align: center;
+    justify-self: center;
+    border-radius: 20px;
+    padding: 1.5rem;
+}

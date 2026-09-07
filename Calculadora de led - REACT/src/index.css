@@ -1,0 +1,16 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: system-ui;
+  font-size: 1rem;
+}
+
+body {
+  background-color: black;
+  height: 100vh;
+  max-width: 100%;
+  align-content: center;
+  justify-self: center;
+  margin: 0;
+}
