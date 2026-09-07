@@ -14,6 +14,8 @@ CSS3: estilização, responsividade e layout com Flexbox e Grid
 
 JavaScript: lógica básica, manipulação do DOM e interatividade
 
+React: Estrutura de componentes
+
 📂 Estrutura
 Cada projeto possui seu próprio diretório
 
